@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "hk.gogovan.GoGoVanClient2.staging",
+    "sha256_cert_fingerprints":
+    ["83:5B:F2:41:59:04:63:82:2B:D8:4B:20:2A:F8:DB:07:E5:9A:1F:09:D5:30:8A:33:F8:DE:2B:15:5F:DA:77:7E"]
+  }
+}]
